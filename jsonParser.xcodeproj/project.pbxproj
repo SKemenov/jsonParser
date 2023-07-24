@@ -24,6 +24,7 @@
 		E92372F52A1C11C10027564D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E92372F82A1C11C10027564D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E92372FA2A1C11C10027564D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9E6B73D2A51C4C40099C23F /* jsonKinoPoisk.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = jsonKinoPoisk.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				E92372F52A1C11C10027564D /* Assets.xcassets */,
 				E92372F72A1C11C10027564D /* LaunchScreen.storyboard */,
 				E92372FA2A1C11C10027564D /* Info.plist */,
+				E9E6B73D2A51C4C40099C23F /* jsonKinoPoisk.geojson */,
 			);
 			path = jsonParser;
 			sourceTree = "<group>";
